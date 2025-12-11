@@ -1,0 +1,17 @@
+# Build directories
+build
+dist
+
+# Dependency directories
+node_modules
+
+# Configuration files
+.env*
+!.env.example
+
+# Logs
+*.log
+
+# IDE files
+.vscode
+.idea
